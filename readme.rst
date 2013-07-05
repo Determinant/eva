@@ -18,5 +18,5 @@ Developers
 
 :Architect & Game Logic & Physics Engine: Ted Yin <ted.sybil@gmail.com>
 :UI abstract & implementation: Goblin Liu <goblin911@gmail.com>
-:UI layout management & design: Feng Shi 
+:UI layout management & design: Feng Shi <sjtufs@gmail.com>
 :Graphics Implementation & Effects: Yang Guang
